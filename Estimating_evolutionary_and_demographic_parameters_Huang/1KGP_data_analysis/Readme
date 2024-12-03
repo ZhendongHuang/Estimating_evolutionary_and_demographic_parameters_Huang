@@ -1,0 +1,1 @@
+The raw-data of Chromosome 20 and Chromosome 21 of the eight populations are download from ftp.1000genomes.ebi.ac.uk. Then they are encoded into the TS format following "https://www.science.org/doi/10.1126/science.abi8264" (also see "https://github.com/awohns/unified_genealogy_paper" for the code). The resulting TS are renamed as 
