@@ -1,1 +1,1 @@
-This repository contains the TSABC program and all codes used for the analyses in the manuscript "Estimating evolutionary and demographic parameters via ARG-derived IBD".
+This repository contains the TSABC program and all codes used for the analyses in the manuscript "Estimating evolutionary and demographic parameters via ARG-derived IBD". Data underlying Figs 3 to 7 and Tables in the manuscript are contained in the 'data' sub-folder of this directory.
